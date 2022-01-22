@@ -14,7 +14,7 @@ When compared, the 8 possible combinations of the inputs a, b and c are printed 
 and depending on whether the z value is equivalent to the expected answer, a PASS or FAIL is written in the same row.
 
 
-Here is the output for program:
+***Here is the output for program:***
 
 ![output](https://i.imgur.com/W77r3jf.png)
 
